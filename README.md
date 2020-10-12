@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+
+My name is Zizhe Wang, I'm an automobile engineering student at TU Dresden who is passionate about automobile induesty and self-driving car.
+
+🌱 I’m currently learning Udacity Self-Driving Car Nanodegree Course
+
+😄 My hobbies: Photography, piano playing
 
 <!--
 **wangzizhe/wangzizhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
