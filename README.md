@@ -2,8 +2,6 @@ Hi there 👋
 
 My name is Zizhe Wang, I'm an automobile engineering student at TU Dresden who is passionate about automobile induesty and self-driving car.
 
-🌱 I’m currently learning Udacity Self-Driving Car Nanodegree Course
-
 😄 My hobbies: Photography, piano playing
 
 <!--
