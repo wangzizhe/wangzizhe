@@ -1,8 +1,13 @@
 Hi there 👋
 
-My name is Zizhe Wang, I'm an automobile engineering student at TU Dresden who is passionate about automobile induesty and self-driving car.
+My name is Zizhe Wang, I'm an automobile engineering student at TU Dresden who is passionate about automobile induesty, self-driving car and machine learning.
 
-😄 My hobbies: Photography, piano playing
+Besides, I like photography and playing piano.
+
+My photography: https://www.wang.photography
+Here is a Waltz of Chopin played by me: https://youtu.be/jtG4ZFiW844
+
+Enjoy 😄
 
 <!--
 **wangzizhe/wangzizhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
