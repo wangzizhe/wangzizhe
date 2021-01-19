@@ -4,7 +4,7 @@ My name is Zizhe Wang, I'm an automobile engineering student at TU Dresden who i
 
 Besides, I like photography and playing piano.
 
-My photography: https://www.wang.photography
+My photography: https://wang.photography
 
 Here is a Waltz of Chopin played by me: https://youtu.be/jtG4ZFiW844
 
