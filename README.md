@@ -1,10 +1,10 @@
 Hi there 👋
 
-My name is Zizhe Wang, I'm an automobile engineering student at TU Dresden who is passionate about automobile industy, self-driving car and machine learning ✨.
+My name is Zizhe Wang, I'm an automobile engineering student at TU Dresden who is passionate about Future Mobility and AI ✨.
 
 Besides, I'm also passionate about photography 📸 and playing piano 🎹.
 
-Know more about me from my website ⚡: https://zizhe.wang
+Know more about me ⚡: https://zizhe.wang
 
 Here is a Waltz of Chopin 🎵 played by me: https://youtu.be/jtG4ZFiW844
 
