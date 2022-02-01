@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Zizhe Wang, I'm an **automobile engineering** & **Deep Learning** student at TU Dresden who is passionate about Future Mobility and AI ✨.
+My name is Zizhe Wang, I'm a doctoral candidate @ Faculty of Computer Science at TU Dresden who is passionate about Future Mobility and AI ✨.
 
 Besides, I'm also passionate about **photography** 📸 and **playing piano** 🎹.
 
