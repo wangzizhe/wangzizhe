@@ -1,10 +1,10 @@
 Hi there 👋
 
-My name is Zizhe Wang, I'm a doctoral candidate @ Faculty of Computer Science at TU Dresden who is passionate about Future Mobility and AI ✨.
+My name is Zizhe Wang, I'm a doctoral candidate @ Faculty of Computer Science at TU Dresden, Germany, who is passionate about energy, mobility and robotics ✨.
 
-Besides, I'm also passionate about **photography** 📸 and **playing piano** 🎹.
+Besides, I'm also passionate about **photography** 📸 and **classical piano** 🎹.
 
-Know more about me ⚡: https://zizhe.wang
+Know more about me ⚡: https://www.zizhe.wang
 
 Here is a Waltz of Chopin 🎵 played by me: https://youtu.be/jtG4ZFiW844
 
