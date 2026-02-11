@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: wangzizhe
           outputs: |
-            dist/github-snake.svg?color_snake=%2300E5FF&color_dots=%23E2E8F0,%23CBD5E1,%2394A3B8,%2338BDF8,%230EA5E9
-            dist/github-snake-dark.svg?color_snake=%2300F5FF&color_dots=%23161B22,%231F2937,%23334155,%230EA5E9,%2367E8F9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
