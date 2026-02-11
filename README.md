@@ -48,5 +48,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-light&hide_border=true&hide_title=true" alt="GitHub contribution chart" />
 </div>
