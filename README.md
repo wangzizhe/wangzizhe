@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=1450&height=80&lines=%F0%9F%8F%8E+I+chase+speed%2C+and+I+honor+precision.;%F0%9F%92%BB+I+love+Deep+Learning%2C+and+I+shape+curiosity+into+structure.;%F0%9F%93%B8+I+frame+the+light%2C+and+I+preserve+untold+stories.;%F0%9F%8E%B9+I+play+the+piano%2C+and+I+tune+my+code+to+rhythm.;%F0%9F%98%84+I+take+my+craft+seriously%2C+and+I+keep+life+joyful.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=1450&height=80&lines=%F0%9F%8F%8E+I+love+racing%2C+and+I+honor+speed+with+precision.;%F0%9F%92%BB+I+dive+into+Deep+Learning%2C+and+I+build+with+curiosity.;%F0%9F%93%B8+I+frame+the+light%2C+and+I+preserve+untold+stories.;%F0%9F%8E%B9+I+play+the+piano%2C+and+I+tune+my+code+to+rhythm.;%F0%9F%98%84+I+take+my+craft+seriously%2C+and+I+keep+life+joyful.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://zizhe.wang"><img src="https://img.shields.io/badge/Website-Portfolio-0EA5E9?style=flat" alt="website" /></a>
