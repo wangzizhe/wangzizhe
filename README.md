@@ -17,14 +17,12 @@
 </picture>
 </div>
 
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
   <p align="center"><b>Languages</b></p>
   <p align="center"><img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=6" /></p>
-  <p align="center"><b>Deep Learning & AI</b></p>
+  <p align="center"><b>Deep Learning</b></p>
   <p align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=6" /></p>
 
   <p align="center"><b>Full-Stack Development</b></p>
@@ -41,12 +39,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wangzizhe&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=wangzizhe&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=default&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=default&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangzizhe&theme=default" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangzizhe&theme=default" />
 </div>
 
 <div align="center">
