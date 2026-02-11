@@ -2,14 +2,8 @@
 
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=26&duration=2500&pause=650&color=38BDF8&center=true&vCenter=true&width=1100&height=70&lines=%F0%9F%8F%8E+Racing+mindset%3A+speed%2C+focus%2C+precision;%F0%9F%92%BB+Deep+Learning+enthusiast;%F0%9F%93%B8+Photography+is+how+I+capture+the+world;%F0%9F%8E%B9+Piano+and+music+keep+my+code+in+rhythm;%F0%9F%98%84+I+build+seriously%2C+but+I+always+smile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=36&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=1450&height=80&lines=%F0%9F%8F%8E+I+chase+speed%2C+and+I+honor+precision.;%F0%9F%92%BB+I+love+Deep+Learning%2C+and+I+shape+curiosity+into+structure.;%F0%9F%93%B8+I+frame+the+light%2C+and+I+preserve+untold+stories.;%F0%9F%8E%B9+I+play+the+piano%2C+and+I+tune+my+code+to+rhythm.;%F0%9F%98%84+I+take+my+craft+seriously%2C+and+I+keep+life+joyful.)](https://git.io/typing-svg)
 
-<p><i>Racer heart. Deep learning brain. Photographer eyes. Musician soul. Always smiling.</i></p>
-
-<p>
-  <a href="https://github.com/wangzizhe"><img src="https://img.shields.io/badge/GitHub-wangzizhe-181717?style=for-the-badge&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=wangzizhe&style=for-the-badge&color=0e75b6" alt="profile views"/>
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangzizhe/wangzizhe/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangzizhe/wangzizhe/output/github-snake.svg" />
@@ -17,15 +11,6 @@
 </picture>
 
 ---
-
-## 🚀 About Me
-
-- 🏎 I chase speed, and I honor precision.
-- 💻 I love Deep Learning, and I shape curiosity into structure.
-- 📸 I frame the light, and I preserve untold stories.
-- 🎹 I play the piano, and I tune my code to rhythm.
-- 😄 I take my craft seriously, and I keep life joyful.
-- 📫 Reach me: `your-email@example.com`
 
 ## 🧰 Tech Stack
 
