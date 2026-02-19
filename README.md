@@ -39,14 +39,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=default&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=default&hide_border=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangzizhe&theme=default" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangzizhe&theme=default" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangzizhe&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangzizhe&theme=default" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wangzizhe&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangzizhe&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangzizhe&theme=default" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wangzizhe&theme=default" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-light&hide_border=true&hide_title=true" alt="GitHub contribution chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-dark&hide_border=true&hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-light&hide_border=true&hide_title=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-light&hide_border=true&hide_title=true" alt="GitHub contribution chart" />
+  </picture>
 </div>
