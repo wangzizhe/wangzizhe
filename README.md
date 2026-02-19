@@ -32,7 +32,7 @@
   <p align="center"><img src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=6" /></p>
 
   <p align="center"><b>Creative Canvas</b></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=ps,pr&perline=6" /></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=ps,pr,au,figma&perline=6" /></p>
 
 </div>
 
