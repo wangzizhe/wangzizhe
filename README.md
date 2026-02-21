@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://zizhe.wang"><img src="https://img.shields.io/badge/Website-Portfolio-0EA5E9?style=flat" alt="website" /></a>
+  <a href="https://wangzizhe.github.io"><img src="https://img.shields.io/badge/Blog-博客-16a34a?style=flat" alt="blog" /></a>
   <a href="https://xhslink.com/m/7B8Sp8XBH6K"><img src="https://img.shields.io/badge/Xiaohongshu-小红书-ff2442?style=flat" alt="xiaohongshu" /></a>
   <a href="https://www.linkedin.com/in/zizhe-wang/"><img src="https://img.shields.io/badge/LinkedIn-领英-0A66C2?style=flat" alt="linkedin" /></a>
   <img src="https://komarev.com/ghpvc/?username=wangzizhe&label=Views&style=flat&color=f59e0b" alt="profile views" />
