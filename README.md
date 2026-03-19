@@ -40,22 +40,24 @@
   </picture>
 </div>
 <div align="center">
-  <table style="border:none; border-collapse:collapse;">
-    <tr style="border:none;">
-      <td align="center" valign="top" style="border:none; padding:0 28px 0 0;">
-        <span style="font-size:16px; font-weight:700;">Languages</span><br /><span style="display:block; height:18px;"></span>
-        <img height="44" src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" />
-        <br /><br />
-        <span style="font-size:16px; font-weight:700;">Full-Stack</span><br /><span style="display:block; height:18px;"></span>
-        <img height="44" src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind&perline=4" />
-      </td>
-      <td align="center" valign="top" style="border:none; padding:0 0 0 28px;">
-        <span style="font-size:16px; font-weight:700;">Deep Learning</span><br /><span style="display:block; height:18px;"></span>
-        <img height="44" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
-        <br /><br />
-        <span style="font-size:16px; font-weight:700;">Data & Infra</span><br /><span style="display:block; height:18px;"></span>
-        <img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <span style="display:inline-block; width:240px; text-align:center; vertical-align:top;">
+      <span style="font-size:16px; font-weight:700;">Languages</span><br /><span style="display:block; height:18px;"></span>
+      <img height="44" src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" />
+    </span>
+    <span style="display:inline-block; width:240px; text-align:center; vertical-align:top;">
+      <span style="font-size:16px; font-weight:700;">Deep Learning</span><br /><span style="display:block; height:18px;"></span>
+      <img height="44" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
+    </span>
+  </p>
+  <p align="center">
+    <span style="display:inline-block; width:240px; text-align:center; vertical-align:top;">
+      <span style="font-size:16px; font-weight:700;">Full-Stack</span><br /><span style="display:block; height:18px;"></span>
+      <img height="44" src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind&perline=4" />
+    </span>
+    <span style="display:inline-block; width:240px; text-align:center; vertical-align:top;">
+      <span style="font-size:16px; font-weight:700;">Data & Infra</span><br /><span style="display:block; height:18px;"></span>
+      <img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" />
+    </span>
+  </p>
 </div>
