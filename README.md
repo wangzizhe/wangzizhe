@@ -40,20 +40,22 @@
   </picture>
 </div>
 <div align="center">
-  <div align="center">
-    <div style="display:inline-block; vertical-align:top; margin:0 28px;">
-      <span style="font-size:16px; font-weight:700;">Languages</span><br /><span style="display:block; height:18px;"></span>
-      <img height="44" src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" />
-      <br /><br />
-      <span style="font-size:16px; font-weight:700;">Full-Stack</span><br /><span style="display:block; height:18px;"></span>
-      <img height="44" src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind&perline=4" />
-    </div>
-    <div style="display:inline-block; vertical-align:top; margin:0 28px;">
-      <span style="font-size:16px; font-weight:700;">Deep Learning</span><br /><span style="display:block; height:18px;"></span>
-      <img height="44" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
-      <br /><br />
-      <span style="font-size:16px; font-weight:700;">Data & Infra</span><br /><span style="display:block; height:18px;"></span>
-      <img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" />
-    </div>
-  </div>
+  <table style="border:none; border-collapse:collapse;">
+    <tr style="border:none;">
+      <td align="center" valign="top" style="border:none; padding:0 28px 0 0;">
+        <span style="font-size:16px; font-weight:700;">Languages</span><br /><span style="display:block; height:18px;"></span>
+        <img height="44" src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" />
+        <br /><br />
+        <span style="font-size:16px; font-weight:700;">Full-Stack</span><br /><span style="display:block; height:18px;"></span>
+        <img height="44" src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind&perline=4" />
+      </td>
+      <td align="center" valign="top" style="border:none; padding:0 0 0 28px;">
+        <span style="font-size:16px; font-weight:700;">Deep Learning</span><br /><span style="display:block; height:18px;"></span>
+        <img height="44" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
+        <br /><br />
+        <span style="font-size:16px; font-weight:700;">Data & Infra</span><br /><span style="display:block; height:18px;"></span>
+        <img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" />
+      </td>
+    </tr>
+  </table>
 </div>
