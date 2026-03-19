@@ -41,23 +41,19 @@
 </div>
 <div align="center">
   <p align="center">
-    <span style="font-size:16px; font-weight:700;">Languages</span>
-    <span style="display:inline-block; width:120px;"></span>
-    <span style="font-size:16px; font-weight:700;">Deep Learning</span>
+    <span style="font-size:16px; font-weight:700;">Languages</span><br /><span style="display:block; height:18px;"></span>
+    <img height="44" src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" />
   </p>
   <p align="center">
-    <img height="44" src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" />
-    <span style="display:inline-block; width:28px;"></span>
+    <span style="font-size:16px; font-weight:700;">Deep Learning</span><br /><span style="display:block; height:18px;"></span>
     <img height="44" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
   </p>
   <p align="center">
-    <span style="font-size:16px; font-weight:700;">Full-Stack</span>
-    <span style="display:inline-block; width:126px;"></span>
-    <span style="font-size:16px; font-weight:700;">Data & Infra</span>
+    <span style="font-size:16px; font-weight:700;">Full-Stack</span><br /><span style="display:block; height:18px;"></span>
+    <img height="44" src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind&perline=4" />
   </p>
   <p align="center">
-    <img height="44" src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind&perline=4" />
-    <span style="display:inline-block; width:28px;"></span>
+    <span style="font-size:16px; font-weight:700;">Data & Infra</span><br /><span style="display:block; height:18px;"></span>
     <img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" />
   </p>
 </div>
