@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=wangzizhe&label=Views&style=flat&color=f59e0b" alt="profile views" />
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangzizhe/wangzizhe/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangzizhe/wangzizhe/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wangzizhe/wangzizhe/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake.svg" />
 </picture>
 <div align="center">
   <picture>
