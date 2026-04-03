@@ -40,15 +40,15 @@
   </picture>
 </div>
 <div align="center">
-  <p align="center"><strong>Languages</strong></p>
+  <p align="center"><strong><span style="color:#79C0FF;">Languages</span></strong></p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" /></p>
 
-  <p align="center"><strong>Deep Learning</strong></p>
+  <p align="center"><strong><span style="color:#79C0FF;">Deep Learning</span></strong></p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" /></p>
 
-  <p align="center"><strong>Full-Stack</strong></p>
+  <p align="center"><strong><span style="color:#79C0FF;">Full-Stack</span></strong></p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind&perline=4" /></p>
 
-  <p align="center"><strong>Data & Infra</strong></p>
+  <p align="center"><strong><span style="color:#79C0FF;">Data & Infra</span></strong></p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" /></p>
 </div>
