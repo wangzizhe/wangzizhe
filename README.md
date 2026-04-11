@@ -1,4 +1,4 @@
-![wukong](./assets/images/wukong.webp)
+![wukong](./assets/images/wukong-2.webp)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E5E7EB&height=2&section=header&width=420" alt="" />
@@ -68,3 +68,4 @@
   </p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" /></p>
 </div>
+
