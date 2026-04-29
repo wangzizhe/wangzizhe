@@ -20,9 +20,9 @@
 </picture>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wangzizhe&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wangzizhe&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wangzizhe&theme=default&hide_border=true" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=wangzizhe&theme=default&hide_border=true" />
   </picture>
 </div>
 <div align="center">
@@ -68,4 +68,3 @@
   </p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" /></p>
 </div>
-
