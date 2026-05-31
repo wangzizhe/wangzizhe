@@ -15,9 +15,9 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
-    <img alt="3D GitHub Contribution Calendar" src="./profile-3d-contrib/profile-green.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@profile-3d/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@profile-3d/profile-green.svg" />
+    <img alt="3D GitHub Contribution Calendar" src="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@profile-3d/profile-green.svg" />
   </picture>
 </p>
 
@@ -102,4 +102,3 @@
   </p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" /></p>
 </div>
-
