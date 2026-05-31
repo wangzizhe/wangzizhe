@@ -21,6 +21,24 @@
   </picture>
 </p>
 
+<div align="center">
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/labels/monthly-tokens-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/labels/monthly-tokens-light.svg" />
+      <img src="./assets/labels/monthly-tokens-light.svg" alt="Monthly Tokens" />
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/charts/monthly-tokens-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/charts/monthly-tokens-light.svg" />
+      <img src="./assets/charts/monthly-tokens-light.svg" alt="Monthly token usage" />
+    </picture>
+  </p>
+</div>
+<!--
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wangzizhe&theme=tokyonight&hide_border=true" />
@@ -29,13 +47,14 @@
   </picture>
 </p>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake.svg" />
 </picture>
 
-<!--
+
 
 <div align="center">
   <picture>
@@ -83,3 +102,4 @@
   </p>
   <p align="center"><img height="44" src="https://skillicons.dev/icons?i=postgres,docker,linux,git&perline=4" /></p>
 </div>
+
