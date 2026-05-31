@@ -37,34 +37,6 @@
     </picture>
   </p>
 </div>
-<!--
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wangzizhe&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wangzizhe&theme=default&hide_border=true" />
-    <img height="165" src="https://streak-stats.demolab.com/?user=wangzizhe&theme=default&hide_border=true" />
-  </picture>
-</p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/wangzizhe/wangzizhe@output/github-snake.svg" />
-</picture>
-
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-dark&hide_border=true&hide_title=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-light&hide_border=true&hide_title=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangzizhe&theme=github-light&hide_border=true&hide_title=true" alt="GitHub contribution chart" />
-  </picture>
-</div>
-
--->
 
 <div align="center">
   <p align="center">
