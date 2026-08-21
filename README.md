@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://youtu.be/2nGWcR4SY3E">https://youtu.be/2nGWcR4SY3E</a>
-  <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E5E7EB&height=2&section=header&width=420" alt="" />
 </p>
 
